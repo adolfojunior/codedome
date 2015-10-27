@@ -1,7 +1,7 @@
 # codedome
 Dome to measure algorithms
 
-Java Sample
+- Java Sample
 ```Java
 try (Codedome codedome = Codedome.withThreads(1)) {
 
@@ -39,3 +39,18 @@ Will print:
 # timeMillis => [threads: 1, trans: 10000, throughput(trans/sec): 10101010, avg-time(ms): 0.000099]
 # nanoTime => [threads: 1, trans: 10000, throughput(trans/sec): 9708738, avg-time(ms): 0.000103]
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
